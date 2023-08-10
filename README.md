@@ -9,6 +9,6 @@ ini adalah repository untuk pengumpulan tugas 3 Javascript Introduction
    -Input -> https://github.com/mzuhairiy/zuhair-sanber  
 2. Install npm di vscode :  
    -Klik terminal  
-   -Input -> npm install, klik enter
+   -Input -> npm install, klik enter  
    -Jika sudah, input -> node {namaFile}, klik enter  
   
