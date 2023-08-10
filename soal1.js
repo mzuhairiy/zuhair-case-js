@@ -1,4 +1,5 @@
 function akarPangkat() {
+  
     const prompt = require('prompt-sync')({sigint: true});
 
     let x = prompt("Masukkan bilangan genap positif :");
